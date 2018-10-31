@@ -1,5 +1,5 @@
 # csfpost
-csfpost.sh dor docker with bridge
+csfpost.sh for docker with bridge
 
 
 ### Script to prepare and restore full docker iptables rules.
