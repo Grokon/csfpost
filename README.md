@@ -9,6 +9,6 @@ You are free to modify and reproduce so long as this attribution is preserved.
 
 Make sure to disable Docker's iptables management with --iptables=false.
 CSF needs to be restarted whenever you make structural changes to Docker such as your networks, bridges or IP configuration.  
-Or restart csf after rescreate conpose.
+Or restart csf after rescreate compose.
 
 (C)2018 Owen Grok Yon
